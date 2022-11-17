@@ -1,4 +1,4 @@
-# systems-programming-Assignment-one
+# Systems-programming-Assignment-one
 Assignment 1 in the system programming course, an assignment in the JAVA language that includes files and threads
 
 ## Description
